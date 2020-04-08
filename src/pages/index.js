@@ -1,8 +1,7 @@
 import React from 'react';
-import SiteLayout from '../components/htmldesign/SiteLayout';
-import Landing from '../components/scenes/Landing/Landing';
+import SiteLayout from '../utils/SiteLayout';
+import Landing from '../components/scenes/Landing/LandingIndex';
 
-import "bootstrap/dist/css/bootstrap.min.css"
 
 
 export default () => (
